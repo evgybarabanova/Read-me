@@ -7,11 +7,17 @@ Hello World!
 
 Мне нравится разработка, изучаю новые технологии, стремлюсь к постоянному развитию.
 
+
+
+
 # PERN stack.
+
 
 # Почта: evgybarabanova@gmail.com
 
+
 # Telegram: @evgybar
+
 
 # Мой стек 
 
