@@ -21,7 +21,7 @@ Hello World!
 
 # Мой стек 
 
-* Фронтенд: JS, React, Redux (Saga, Thunk), HTML, CSS. 
+* Фронтенд: JS, Next.js, React, Redux (Saga, Thunk), HTML, CSS. 
 
 * Бекенд: Node.js, Express, Sessions, hbs. Базы данных: PostgreSQL, Sequelize ORM
 
