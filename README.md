@@ -14,7 +14,7 @@ Hello World!
 
 # Cтек 
 
-* Фронтенд: JS, Next.js, React, Redux (Saga, Thunk), HTML, CSS, Tailwindcss
+* Фронтенд: JS, Next.js, React, Redux (Saga, Thunk), HTML, CSS, Tailwind UI, Bootstrap, Material UI
 
 * Бекенд: Node.js, Express, Sessions, hbs. Базы данных: PostgreSQL, Sequelize ORM
 
