@@ -8,20 +8,13 @@ Hello World!
 Мне нравится разработка, изучаю новые технологии, стремлюсь к постоянному развитию.
 
 
-# Мой сайт: https://evgeniabarabanova.vercel.app/
-
-# PERN stack.
-
-
-# Почта: evgybarabanova@gmail.com
-
+# Cайт: https://evgeniabarabanova.vercel.app/
 
 # Telegram: @evgybar
 
+# Cтек 
 
-# Мой стек 
-
-* Фронтенд: JS, Next.js, React, Redux (Saga, Thunk), HTML, CSS. 
+* Фронтенд: JS, Next.js, React, Redux (Saga, Thunk), HTML, CSS, Tailwindcss
 
 * Бекенд: Node.js, Express, Sessions, hbs. Базы данных: PostgreSQL, Sequelize ORM
 
